@@ -15,7 +15,7 @@ body {
 /* Main content section */
 
 .main-content-section {
-    padding: 100px 90px;
+    padding: 0 90px;
 }
 
 .main-content-title {
@@ -63,7 +63,7 @@ body {
 /* My progecta section */
 
 .my-projects-section {
-    margin: 0 0 50px 0;
+    margin: 0 0 25px 0;
 }
 
 .my-projects-list {
@@ -189,7 +189,7 @@ body {
 .sidebar-section {
     background-color: #1e2939;
     width: 370px;
-    padding: 40px 0;
+    /* padding: 40px 0; */
 }
 
 .contacts,
@@ -223,7 +223,8 @@ body {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #565e6a;
+    text-decoration: none;
+    color: #a5aab3;
 }
 
 /* Tech skills */
